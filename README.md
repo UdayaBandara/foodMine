@@ -59,3 +59,12 @@
         3. add html
         4. add css
     6. add dynamic item count to header cart
+10. Not found
+    1. generate component
+        1. add ts
+        2. add html
+        3. add css
+    2. add to pages
+        1. home page
+        2. food page
+        3. cart page
