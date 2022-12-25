@@ -9,3 +9,13 @@
     1. generate component
     2. add html
     3. add css
+5. List Foods
+    1. Create food model
+    2. Create data.ts
+        1. add sample foods
+    3. Add images to assets
+    4. Create food sevice
+    5. Create home component
+        1. add ts
+        2. add html
+        3. add css
