@@ -10,12 +10,21 @@
     2. add html
     3. add css
 5. List Foods
-    1. Create food model
-    2. Create data.ts
+    1. create food model
+    2. create data.ts
         1. add sample foods
-    3. Add images to assets
-    4. Create food sevice
-    5. Create home component
+    3. add images to assets
+    4. create food sevice
+    5. create home component
         1. add ts
         2. add html
         3. add css
+6. Search
+    1. add method to food service
+    2. add search route
+    3. show search result in "Home Component"
+    4. generate search component
+        1. add to home component
+        2. add ts
+        3. add html
+        4. add css
